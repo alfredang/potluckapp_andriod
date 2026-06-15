@@ -1,0 +1,29 @@
+# Gradle / build
+.gradle/
+build/
+app/build/
+captures/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Android Studio / IDE
+.idea/
+*.iml
+.DS_Store
+local.properties
+
+# Signing — NEVER commit keystores or passwords
+keystore/
+*.jks
+*.keystore
+keystore.env
+
+# Play service account / secrets
+*service-account*.json
+play-credentials.json
+
+# Branding scratch
+branding/foreground.svg
+screenshots/
