@@ -89,7 +89,7 @@ python3 scripts/play_upload.py
 ```
 
 - **Application ID:** `io.potluckhub.app`
-- **Version:** 1.3 (versionCode 130)
+- **Version:** 1.3 (versionCode 131) · target SDK 36 · live on Google Play
 
 ## License
 

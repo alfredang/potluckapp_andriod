@@ -28,3 +28,14 @@ play-credentials.json
 branding/foreground.svg
 screenshots/
 .playwright-mcp/
+
+# Secrets, archives and source material — never pushed
+keystore.properties
+.env
+.env.*
+!*.example
+.kotlin/
+# Distribution archives (rebuildable — never pushed to GitHub)
+*.zip
+# Source material the project was derived from — not ours to republish.
+**/reference/
