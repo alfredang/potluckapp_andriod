@@ -7,13 +7,13 @@ plugins {
 
 android {
     namespace = "io.potluckhub.app"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "io.potluckhub.app"
         minSdk = 26
-        targetSdk = 35
-        versionCode = 130
+        targetSdk = 36
+        versionCode = 131
         versionName = "1.3"
         vectorDrawables { useSupportLibrary = true }
     }
